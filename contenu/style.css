@@ -1,0 +1,37 @@
+html, body {
+height: 100%;}
+body {
+        color: rgb(200, 200, 200);
+        background: rgb(0, 0, 0);
+        font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+        }
+h1 {
+        color: white;
+            }
+.nomeleve {
+     margin-bottom : 0px;
+         }
+#global {
+    overflow-x:auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+ td {
+    text-align: center;
+    padding: 3px;
+}
+ th{
+     color: white;
+    text-align: center;
+    padding: 8px;
+    font-size : 120%;
+}
+tr:nth-child(even){background-color:steelblue}
+#titre {
+text-align: center;
+}
+#absence {
+    font-size : 100%;
+    }
